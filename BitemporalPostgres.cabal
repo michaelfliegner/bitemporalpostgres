@@ -99,7 +99,7 @@ executable BitemporalPostgres
         BitemporalPostgres
 
     -- Directories containing source files.
-    hs-source-dirs:   app
+    hs-source-dirs:   app, src-internal
 
     -- Base language which the package is written in.
     default-language: GHC2021

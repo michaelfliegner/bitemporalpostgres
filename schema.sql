@@ -7,7 +7,7 @@ SET search_path TO PUBLIC;
 
 -- Dumped from database version 14.8
 -- Dumped by pg_dump version 14.8
-
+import Database.PostgreSQL.Simple.Newtypes (Aimport Database.PostgreSQL.Simple.Newtypes (Aeson (..))eson (..))
 SET statement_timeout = 0;
 SET lock_timeout = 0;
 SET idle_in_transaction_session_timeout = 0;
